@@ -20,8 +20,8 @@ export default SongCard
 
 const styles = StyleSheet.create({
     container : {
-       height : 250 , 
-       width : 250 ,
+       height : 320 , 
+       width : 250 ,   
     },
     coverImage : {
       width : 250 ,
